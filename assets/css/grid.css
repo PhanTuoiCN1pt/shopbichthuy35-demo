@@ -144,7 +144,6 @@
 @media (max-width:500px){
     .balance{
         display: block;
-        border-radius: 10px;
         padding-bottom: 5px;
     }
 
